@@ -1,6 +1,4 @@
 <a name="readme-top"></a>
-<!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,6 +9,7 @@
     Implementation of a multi-task model for encrypted network traffic classification based on transformer and 1D-CNN.
     <br />
     <a href="https://www.techscience.com/iasc/v37n1/52667/html">[Paper]</a>
+    <a href="https://wandb.ai/yuchengml/MTC/reports/Implementation-of-a-multi-task-model-for-encrypted-network-traffic-classification-based-on-transformer-and-1D-CNN---Vmlldzo2MzQyNjU5">[W&B Report]</a>
   </p>
 </div>
 
@@ -105,6 +104,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- EXPERIMENTS -->
 ## Experiments
+- [W&B Report](https://wandb.ai/yuchengml/MTC/reports/Implementation-of-a-multi-task-model-for-encrypted-network-traffic-classification-based-on-transformer-and-1D-CNN---Vmlldzo2MzQyNjU5)
+
 ### Dataset info
 - ISCX VPE-non VPN
   - After filtering by application type
